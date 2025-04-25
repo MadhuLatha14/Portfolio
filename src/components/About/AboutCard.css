@@ -1,0 +1,55 @@
+/* AboutCard.css - Add this to your existing CSS or create a new file */
+.quote-card-view {
+    background: transparent !important;
+    border: none !important;
+    box-shadow: none !important;
+  }
+  
+  .about-text {
+    font-size: 1.1rem;
+    line-height: 1.8;
+    color: #444 !important;
+    text-align: justify;
+  }
+  
+  .blue-text {
+    color: #1976d2 !important;
+    font-weight: 600;
+  }
+  
+  .about-activity {
+    list-style: none;
+    padding-left: 0;
+    margin: 20px 0 30px;
+  }
+  
+  .about-activity-item {
+    display: flex;
+    align-items: center;
+    margin-bottom: 15px;
+    font-size: 1.05rem;
+    color: #444;
+  }
+  
+  .icon-color {
+    color: #1976d2;
+    margin-right: 10px;
+    font-size: 1.1rem;
+  }
+  
+  .about-quote {
+    font-size: 1.3rem;
+    font-style: italic;
+    margin-top: 30px;
+    padding-left: 15px;
+    border-left: 4px solid #1976d2;
+    color: #333;
+  }
+  
+  .quote-footer {
+    font-size: 1rem;
+    text-align: right;
+    color: #666;
+    margin-top: 10px;
+    font-weight: 500;
+  }
