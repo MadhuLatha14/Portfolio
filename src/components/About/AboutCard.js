@@ -7,7 +7,7 @@ function AboutCard() {
     <Card className="quote-card-view">
       <Card.Body>
         <p style={{ textAlign: "justify" }}>
-          Hi Everyone, I am <span className="purple">Koduru Madhu Latha </span>
+          Hi Everyone, I am <span className="purple">Madhu Latha Koduru </span>
           {" "}from Andhra Pradesh, India.
           <br />
           I am a Computer Science graduate with a B.Tech degree from{" "}
