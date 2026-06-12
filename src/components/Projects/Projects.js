@@ -44,7 +44,7 @@ function Projects() {
     description:
       "Built a secure digital prescription system using the MERN stack.Implemented authentication, validated APIs, and real-time interaction between doctors and patients.Enabled PDF generation for efficient record-keeping. Automated doctor-patient workflows with secure prescription management and improving accessibility.",
     ghLink: "https://github.com/MadhuLatha14/MERN",
-    demoLink: "https://mern-1-4t5e.onrender.com/",
+    demoLink: "https://digital-prescription-generator.vercel.app",
     technologies: [
       "React",
       "Node.js",
